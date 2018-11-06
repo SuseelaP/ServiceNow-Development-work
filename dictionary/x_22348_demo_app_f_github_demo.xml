@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="GitHub Demo" max_length="40" name="x_22348_demo_app_f_github_demo" type="collection"/>
+</database>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>GitHub Demo</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>GitHub Demo</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">aee1ba76791203006517636e4f534939</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-06 11:46:23</sys_created_on>
+        <sys_id>f62ebdaedba923009aa07e7dbf96198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitHub Demo</sys_name>
+        <sys_package display_value="Demo App for Github load" source="x_22348_demo_app_f">78fd75e6dba923009aa07e7dbf96194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App for Github load">78fd75e6dba923009aa07e7dbf96194f</sys_scope>
+        <sys_update_name>sys_wizard_answer_f62ebdaedba923009aa07e7dbf96198d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-06 11:46:23</sys_updated_on>
+        <table/>
+        <target_url>x_22348_demo_app_f_github_demo.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

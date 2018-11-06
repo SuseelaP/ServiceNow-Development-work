@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_22348_demo_app_f_github_demo</description>
+        <name>x_22348_demo_app_f_github_demo</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-06 11:46:23</sys_created_on>
+        <sys_id>aa2ebdaedba923009aa07e7dbf961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_22348_demo_app_f_github_demo</sys_name>
+        <sys_package display_value="Demo App for Github load" source="x_22348_demo_app_f">78fd75e6dba923009aa07e7dbf96194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App for Github load">78fd75e6dba923009aa07e7dbf96194f</sys_scope>
+        <sys_update_name>sys_security_acl_aa2ebdaedba923009aa07e7dbf961980</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-06 11:46:23</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
